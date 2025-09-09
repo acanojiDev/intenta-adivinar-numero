@@ -1,1 +1,1 @@
-# intenta-adivinar-numero
+# intenta-adivinar-numero-php
